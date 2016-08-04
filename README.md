@@ -1,1 +1,2 @@
 # ClassGenerator
+New branch
