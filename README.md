@@ -1,2 +1,3 @@
 # ClassGenerator
 First commit
+gn
